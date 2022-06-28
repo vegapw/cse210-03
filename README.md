@@ -1,6 +1,6 @@
 # Jumper
-Experience the classic game of hanged, with a parachute instead of tree. You just need to guess 
-a word by using letters, or a word if you feel confident, but you just have 4 tries to guess, so
+Experience the classic game of hanged, with a parachute instead of a tree. You just need to guess 
+a word by using letters, or the complete word if you feel confident, but you just have 4 tries to guess, so
 enjoy the game and play as many times you want.
 
 ---
